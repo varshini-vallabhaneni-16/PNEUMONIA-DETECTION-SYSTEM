@@ -1,0 +1,9 @@
+venv/
+dataset/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+.DS_Store
